@@ -2,7 +2,16 @@
 
 ## Tokens
 
-[Untitled](https://www.notion.so/2c23b3d6e5cd4eb6b6b3217a089468cf)
+T_ADD	+
+T_SUB	-
+T_MUL	*
+T_DIV	/
+T_LPAREN	(
+T_RPAREN	)
+T_INT	(0|1|2|3|4|5|6|7|8|9)^+
+T_UNKNOWN	Todo lo demas
+![image](https://user-images.githubusercontent.com/33106612/135702113-fcc2954b-0ac3-45e8-9439-9084f52ad445.png)
+
 
 ## Gramática final
 
